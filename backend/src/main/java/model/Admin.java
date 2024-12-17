@@ -1,4 +1,5 @@
 package main.java.model;
 
-public class Admin {
+public class Admin extends User {
+
 }
